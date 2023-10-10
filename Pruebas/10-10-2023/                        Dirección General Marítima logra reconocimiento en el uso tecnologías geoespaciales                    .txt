@@ -1,0 +1,10 @@
+                        Dirección General Marítima logra reconocimiento en el uso tecnologías geoespaciales                    
+
+Con el uso de tecnología geoespacial en un solo sistema, según explican, se tiene una visión completa del panorama marino-costero nacional
+
+La Dirección General Marítima, Dimar, autoridad colombiana encargada de velar por la seguridad integral marítima, ha creado la Infraestructura de Datos Espaciales, IDE, u
+Con el uso de tecnología geoespacial en un solo sistema, según explican, 
+"La interoperabilidad de bases de datos y sistemas dispares abre una puerta para compartir la información y generar mayor conocimiento. La IDE también facilita la toma de decisiones fundamentadas para la protección y el uso sostenible de los recursos marinos y costeros", explica Paola Echeverry, administradora de la IDE marítima, fluvial y costera de la Dimar.
+Se trata de un reconocimiento que la empresa líder de Sistemas de Información Geográfica, SIG, del mundo otorga anualmente a las organizaciones que alcanzan el éxito en sus operaciones a través del uso de los SIG,
+ La entrega de este reconocimiento se dio en el marco de la Conferencia de Usuarios Esri- CUE 2023-, el evento sobre SIG más importante de la región.
+La IDE marítima, fluvial y costera implementa diversas soluciones de Esri que incluyen herramientas de monitoreo, recolección de datos en campo, interacción con la comunidad, generación y análisis de datos temáticos espaciales y administración y publicación de contenido.

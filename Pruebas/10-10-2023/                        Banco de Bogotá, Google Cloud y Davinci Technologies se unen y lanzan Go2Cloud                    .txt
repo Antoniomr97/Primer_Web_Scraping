@@ -1,0 +1,9 @@
+                        Banco de Bogotá, Google Cloud y Davinci Technologies se unen y lanzan Go2Cloud                    
+
+El acuerdo busca beneficiar al tejido empresarial colombiano bajo tres pilares principalmente: Consultoría a empresas; capacitación de equipos y aceleración de la innovación
+
+Banco de Bogotá anuncia un acuerdo con Google Cloud y Davinci Technologies. Este tiene como objetivo principal 
+Go2Cloud, el programa del Banco de Bogotá en el que se integra tecnología de última generación, 
+, la gestión de la cadena de valor, el análisis de datos y la generación de conocimiento para tomar decisiones.
+“El programa Go2Cloud marca un hito fundamental en la ruta hacia la transformación digital y la modernización empresarial en Colombia que garantiza que las organizaciones estén a la vanguardia de la innovación tecnológica, listas para afrontar con éxito los desafíos del futuro”, afirmó Rafael Arango Calle, vicepresidente de Banca Empresas del Banco de Bogotá.
+“Nos complace trabajar junto al Banco de Bogotá y apoyarlos en su continuo proceso de innovación. La nube es un acelerador de la innovación y estamos seguros de que este acuerdo demostrará una vez más el potencial que tiene la tecnología para resolver problemas. Desde Google Cloud, tenemos el objetivo de acompañar a las empresas en el camino de la transformación de sus negocios.”, afirmó Juan Pablo Consuegra, Country Manager de Google Cloud Colombia.
